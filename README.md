@@ -1,3 +1,8 @@
 # hello-world
-Hello guys
-Its me Niresh chauhdhary
+class AboutMe
+{
+ public static void main (String[] args)
+ {
+  System.out.println("Hello guys, its me Niresh");
+ }
+}
